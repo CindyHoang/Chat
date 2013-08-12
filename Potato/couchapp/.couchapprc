@@ -1,0 +1,10 @@
+{
+  "env" : {
+	"public" : {
+	  "db" : "http://unicorn:1ntelgwc@unicorn.cloudant.com/farawayfriends"
+	},
+	"default" : {
+	  "db" : "http://unicorn:1ntelgwc@unicorn.cloudant.com/farawayfriends"
+	}
+  }
+ }
